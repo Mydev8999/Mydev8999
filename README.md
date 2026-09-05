@@ -1,4 +1,4 @@
-# 👋 I’m **Marmotte**  
+# 👋 I’m **niceware**  
 
 I build **Discord bots, web apps, APIs, and automation tools** with speed and precision.  
 I focus on **clean, scalable, high-performance systems** across multiple languages and frameworks.  
